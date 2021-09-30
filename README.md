@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on _Plant genomics_, genome annotation, differential expression analysis and coexpression networks, im not an expert
+- 🌱 I’m currently learning _Deep learning_ , _Human variation_
+- 👯 I’m looking to collaborate on Human populations bioinformatic projects
+
 <!--
 **TheGreatJack/TheGreatJack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
